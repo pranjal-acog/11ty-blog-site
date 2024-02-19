@@ -2,6 +2,7 @@
 title: Yet another article
 author: Pranjal Pathak
 image: /assets/blog/article-1.jpg
+date: 2023-03-17
 imageAlt: This is a test
 description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?
 ---
