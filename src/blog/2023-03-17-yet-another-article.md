@@ -1,5 +1,5 @@
 ---
-title: Yet nother article
+title: Yet another article
 author: Pranjal Pathak
 image: /assets/blog/article-1.jpg
 imageAlt: This is a test
